@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kotlin1</string>
+    <string name="name">Введите название</string>
+    <string name="next">Next</string>
+    <string name="go">Go</string>
+    <string name="start">Start</string>
+    <string name="insert_name">Insert name</string>
+</resources>
